@@ -1,7 +1,7 @@
 {
   "name": "gm-papandreou",
   "description": "GraphicsMagick and ImageMagick for node.js",
-  "version": "1.23.0",
+  "version": "1.23.0-patch1",
   "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
   "keywords": [
     "graphics",
